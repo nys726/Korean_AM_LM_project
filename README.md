@@ -1,4 +1,4 @@
-# project
+# sound_project
 
                                                                                  프로젝트명 : 음성인식용 데이터 수집
                                                                                        이름 :                 나윤수
