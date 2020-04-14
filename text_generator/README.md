@@ -13,5 +13,5 @@ Yoonsoo NA
     - 각 문장은 앞뒤로 S(start token), E(end token)이 있으며, 이러한 문장들이 한 줄로 연결되어 있다.
 - total.txt
     - 음성인식용 수집 데이터에서 텍스트만 추출된 데이터. 
-    - 본 데이터를  combined.txt 식으로 가공하여 train.py에 데이터로 넣어야 한다.
+    - 본 데이터를  total.txt 식으로 가공하여 train.py에 데이터로 넣어야 한다.
 
