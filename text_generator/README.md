@@ -3,9 +3,7 @@ ANN 네트워크 기반의 텍스트 생성 모델.
 
 ### Developer
 
-Hyungwon Yang
-NAMZ Labs
-04.09.20
+Yoonsoo NA
 
 ### Contents
 - train.py
